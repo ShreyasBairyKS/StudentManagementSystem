@@ -9,6 +9,6 @@ Features of the System:
 6. Drop a Course
 7. Add Grade
 8. Update Student Name
-9.  9. Display Class Average
+9. Display Class Average
 10. Sort Students by Name
 11. Sort Students by ID
