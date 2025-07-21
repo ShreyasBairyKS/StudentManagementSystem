@@ -6,7 +6,7 @@ Features of the System:
 3. Display All Students                                            
 4. Display Student Details                                     
 5. Enroll in Course                                                  
-6. Drop a Cours
+6. Drop a Course
 7. Add Grade
 8. Update Student Name
 9. Display Class Average
