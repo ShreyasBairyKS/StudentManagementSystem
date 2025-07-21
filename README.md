@@ -11,4 +11,4 @@ Features of the System:
 8. Update Student Name
 9. Display Class Average
 10. Sort Students by Name
-11. Sort Students by I
+11. Sort Students by ID
