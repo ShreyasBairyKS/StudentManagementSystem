@@ -15,8 +15,6 @@ A Java-based application designed to manage and organize student-related informa
 - Display Class Average  
 - Sort Students by Name  
 - Sort Students by ID  
-:contentReference[oaicite:0]{index=0}
-
 ---
 ## Overview
 
