@@ -1,14 +1,47 @@
-# StudentManagementSystem
-The Student Management System is a software application developed in Java that aims to manage and organize student-related information efficiently within an educational institution.
-Features of the System:
-1. Add Student                                                        
-2. Remove Student                                                 
-3. Display All Students                                            
-4. Display Student Details                                     
-5. Enroll in Course                                                  
-6. Drop a Course
-7. Add Grade
-8. Update Student Name
-9. Display Class Average
-10. Sort Students by Name
-11. Sort Students by ID
+# Student Management System
+
+A Java-based application designed to manage and organize student-related information efficiently within an educational institution.
+
+##  Features
+
+- Add Student  
+- Remove Student  
+- Display All Students  
+- Display Student Details  
+- Enroll in Course  
+- Drop a Course  
+- Add Grade  
+- Update Student Name  
+- Display Class Average  
+- Sort Students by Name  
+- Sort Students by ID  
+:contentReference[oaicite:0]{index=0}
+
+---
+
+##  Table of Contents
+
+- [Overview](#overview)  
+- [Features](#features)  
+- [Getting Started](#getting-started)  
+- [Project Structure](#project-structure)  
+- [How to Use](#how-to-use)  
+- [Future Enhancements](#future-enhancements)  
+- [Credits](#credits)
+
+---
+
+## Overview
+
+This console-based Java application allows for basic student record management, including course enrollment, grading, updates, and reports like class averages.:contentReference[oaicite:1]{index=1}
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Java Development Kit (JDK) version 8 or higher installed  
+- Basic familiarity with Java and command-line operations
+
+---
