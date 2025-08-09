@@ -18,7 +18,7 @@ A Java-based application designed to manage and organize student-related informa
 ---
 ## Overview
 
-This console-based Java application allows for basic student record management, including course enrollment, grading, updates, and reports like class averages.:contentReference[oaicite:1]{index=1}
+This console-based Java application allows for basic student record management, including course enrollment, grading, updates, and reports like class averages.
 
 ---
 
