@@ -14,7 +14,7 @@ A Java-based console application for managing student information in educational
 - Update Student Name  
 - Display Class Average  
 - Sort Students by Name  
-- Sort Students by ID  
+- Sort Students by ID   
 ---
 
 ### Prerequisites
